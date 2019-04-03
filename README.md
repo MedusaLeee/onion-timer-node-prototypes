@@ -9,3 +9,16 @@ node prototypes for onion timer v3
 
 [protobuf.js](./serialization/protobuf.js)
 
+## TCP封包解包
+
+### protobuf on TCP
+
+TODO
+
+### TCP Proxy
+
+TODO
+
+## UDP内网相互发现
+
+TODO
