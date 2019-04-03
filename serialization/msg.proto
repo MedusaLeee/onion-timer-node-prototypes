@@ -1,0 +1,7 @@
+package timer;
+
+message Job{
+    required int32 jobAt = 1;
+    required string appId = 2;
+    required string payload = 3;
+}
