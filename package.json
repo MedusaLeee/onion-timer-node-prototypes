@@ -1,0 +1,23 @@
+{
+  "name": "onion-timer-node-prototypes",
+  "version": "1.0.0",
+  "description": "node prototypes for onion timer v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MedusaLeee/onion-timer-node-prototypes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MedusaLeee/onion-timer-node-prototypes/issues"
+  },
+  "homepage": "https://github.com/MedusaLeee/onion-timer-node-prototypes#readme",
+  "dependencies": {
+    "protobufjs": "^6.8.8"
+  }
+}
