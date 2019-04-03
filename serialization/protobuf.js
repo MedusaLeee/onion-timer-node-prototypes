@@ -29,4 +29,8 @@ const jsonBuffer = Buffer.from(jsonStr);
 
 console.log(jsonBuffer.length); // 82
 
+// json 反序列化
+
+console.log(JSON.parse(jsonBuffer.toString()))
+
 // 40 比 82 json 序列化后比 protobuf 序列化后 大一倍 多
