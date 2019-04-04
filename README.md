@@ -11,11 +11,11 @@ node prototypes for onion timer v3
 
 ## HTTP2
 
-### protobuf on HTTP2
+各种库对http2支持还不是特别好，本次还是采用protobuf on http1.1
 
-TODO
+[koa http2](./http2-demo)
 
-### HTTP2 Proxy
+## protobuf on HTTP
 
 TODO
 
