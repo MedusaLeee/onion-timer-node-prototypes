@@ -1,7 +1,7 @@
 {
-  "name": "onion-timer-node-prototypes",
+  "name": "json-serialization",
   "version": "1.0.0",
-  "description": "node prototypes for onion timer v3",
+  "description": "json-serialization",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
