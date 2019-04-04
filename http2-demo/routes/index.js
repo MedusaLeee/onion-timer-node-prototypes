@@ -6,4 +6,10 @@ router.get('/', async ctx => {
   }
 })
 
+router.post('/', async ctx => {
+  const body = ctx.request.body
+  console.log(body)
+  ctx.body =  body
+})
+
 module.exports = router
