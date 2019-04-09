@@ -18,7 +18,8 @@
     "koa-logger": "^3.2.0",
     "koa-onerror": "^4.1.0",
     "koa-router": "^7.4.0",
-    "protobufjs": "^6.8.8"
+    "protobufjs": "^6.8.8",
+    "raw-body": "^2.3.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
