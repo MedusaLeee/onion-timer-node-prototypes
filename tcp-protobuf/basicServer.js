@@ -8,7 +8,7 @@
  *
  */
 
-const  net = require('net')
+const net = require('net')
 
 const server = net.createServer(socket => {
     socket.on('data', data => {
@@ -20,6 +20,6 @@ const server = net.createServer(socket => {
     socket.write("hello world.\n")
 })
 
-server.listen(8000,function(){
+server.listen(8000, function () {
     console.log('listen 8000')
 })
